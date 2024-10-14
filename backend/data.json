@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "name": "Marta Richard",
+    "age": 29
+  },
+  {
+    "id": 1,
+    "name": "Gipsz Jakab",
+    "age": 290
+  },
+  {
+    "id": 2,
+    "name": "Tom Cruise",
+    "age": 60
+  },
+  {
+    "id": 3,
+    "name": "The Rock",
+    "age": 50
+  },
+  {
+    "id": 4,
+    "name": "New User",
+    "age": 100
+  },
+  {
+    "id": 5,
+    "name": "Tamas Matyas",
+    "age": 28
+  },
+  {
+    "id": 6,
+    "name": "Kis test",
+    "age": "23"
+  },
+  {
+    "id": 7,
+    "name": "Nagy Test",
+    "age": "57"
+  }
+]
